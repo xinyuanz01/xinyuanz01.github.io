@@ -13,9 +13,9 @@ title                    : "Xinyuan Zhang"
 title_separator          : "-"
 name                     : &name "Xinyuan Zhang"
 description              : &description "Ph.D. Candidate in Biomedical Engineering"
-url                      : https://YOUR-GITHUB-USERNAME.github.io # <--- CHANGE THIS to your actual GitHub username
+url                      : https://xyz.github.io # <--- CHANGE THIS to your actual GitHub username
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME.github.io" # <--- CHANGE THIS to your actual repository path
+repository               : "xinyuanz01/xyz.github.io" # <--- CHANGE THIS to your actual repository path
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "YOUR-GITHUB-USERNAME" # <--- CHANGE THIS (Just the username, not the URL)
+  github           : "xinyuanz01" # <--- CHANGE THIS (Just the username, not the URL)
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")     
 
