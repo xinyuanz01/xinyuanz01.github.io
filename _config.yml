@@ -13,7 +13,7 @@ title                    : "Xinyuan Zhang"
 title_separator          : "-"
 name                     : &name "Xinyuan Zhang"
 description              : &description "Ph.D. Candidate in Biomedical Engineering"
-url                      : https://xyz.github.io # <--- CHANGE THIS to your actual GitHub username
+url                      : "https://xinyuanz01.github.io" # <--- CHANGE THIS to your actual GitHub username
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinyuanz01/xyz.github.io" # <--- CHANGE THIS to your actual repository path
 
