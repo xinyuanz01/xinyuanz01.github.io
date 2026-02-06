@@ -1,11 +1,35 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a Ph.D. Candidate in Biomedical Engineering at The University of Texas at Dallas (UT Dallas), advised by Prof. Yichen Ding. My research focuses on developing high-speed volumetric microscopy and computational imaging techniques to quantify cardiac dynamics.
+
+Research Interests
+======
+* Light-sheet microscopy and high-speed volumetric imaging
+* Computational imaging and compressed sensing
+* Deep learning–assisted image reconstruction and analysis
+* Quantitative cardiac function analysis (regional contractility, blood-flow/hemodynamics)
+* Interactive analysis and visualization for large 3D/4D datasets (e.g., virtual reality)
+
+Education
+======
+* **Ph.D. in Biomedical Engineering**, University of Texas at Dallas (June 2021 – Present)
+  * *Dissertation:* Instantaneous volumetric light-sheet imaging and quantitatively analysis of beating heart with CAPS microscope.
+* **M.S. in Biomedical Engineering**, Washington University in St. Louis (Aug 2019 – May 2021)
+* **B.S. in Biomedical Engineering**, Beijing Institute of Technology (Aug 2015 – Jul 2019)
+
+News
+======
+* **[Jan 2025]** I will be presenting "Instantaneous volumetric light-sheet imaging" at the Optica Biophotonics Congress in Coronado, CA.
+* **[2025]** Won Outstanding Achievement at UT Dallas Research Days.
+* **[2024]** Received the Bioengineering Convergence Grant ($3000).
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
